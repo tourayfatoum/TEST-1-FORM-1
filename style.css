@@ -99,3 +99,8 @@ main{
     color: #fff;
     
 }
+@media(max-width:600px){
+    .main{
+display: none;
+}
+}
